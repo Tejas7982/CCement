@@ -1,0 +1,19 @@
+############Sales##################
+
+For sales deployment
+Type cmd in address bar -> Enter
+write -> streamlit run sales.py(For sales)
+Url open
+upload Test_arima file
+click predict
+
+
+##########DEMAND###################
+
+For Demand deployment
+Type cmd in address bar -> Enter
+write -> streamlit run Demand.py(For Demand)
+Url open
+upload Test_arima file
+click predict
+
